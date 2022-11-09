@@ -1,0 +1,1 @@
+From kubeedge/edgemesh-agent:latest@sha256:ef7cbff5aef5475a513bd39a85bc9437420f33a92b1bb534634d8c54cd9dcada
